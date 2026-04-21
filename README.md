@@ -60,8 +60,7 @@
 Для загрузки последней версии откройте страницу релиза и скачайте нужный файл оттуда.
 
 
-## Автор
+## Полезные сссылки:
 
-- GitHub: [1gaSPb](https://github.com/1gaSPb)
-- Telegram-группа, поддержка: [ibot2 Tiles Survive](https://t.me/ibot2_ts)
+- Telegram-группа, поддержка: [Tiles Survive Bot: ibot2](https://t.me/ibot2_ts)
 - Telegram: [IgaSPb](https://t.me/IgaSPb)
