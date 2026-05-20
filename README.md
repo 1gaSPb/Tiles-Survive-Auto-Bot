@@ -44,6 +44,11 @@
 <img width="704" height="633" alt="image" src="https://github.com/user-attachments/assets/1b22fb8b-d826-4437-92ee-525c07017f6d" />
 
 
+<img width="899" height="722" alt="image" src="https://github.com/user-attachments/assets/bbf51854-b9ae-49a8-a03b-dcdc6298e259" />
+
+Второй вариант оформления.
+
+
 
 <img width="502" height="452" alt="image" src="https://github.com/user-attachments/assets/3303156b-dd68-425b-9bbd-4227bd709326" />
 
