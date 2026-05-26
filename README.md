@@ -39,9 +39,10 @@
 - **Автопереподключение**: при вылете из аккаунта (если запустился на другом устройстве).
 - **Ловить яйца**: автоматически хватает яйца с алмазами в чате союза и штата.
 - **Макросы**: Запись и воспроизведение личных макросов с настройкой интервалов.
-
+- **Рудник**: автоматическое обновление рудника по заданному таймеру.
     
-<img width="704" height="633" alt="image" src="https://github.com/user-attachments/assets/1b22fb8b-d826-4437-92ee-525c07017f6d" />
+<img width="766" height="732" alt="image" src="https://github.com/user-attachments/assets/5a5f61d5-9072-473a-b6a4-ebc9f5345c34" />
+
 
 
 <img width="899" height="722" alt="image" src="https://github.com/user-attachments/assets/bbf51854-b9ae-49a8-a03b-dcdc6298e259" />
