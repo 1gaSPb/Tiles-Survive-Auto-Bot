@@ -44,7 +44,10 @@
 - **Поддержка песочниц и эмуляторов android**. Как настроить - статья в разделе вики проекта и в ТГ канале.
 - **Анти-детект**: добавление случайных задержек нажатий, таймера сбора угля, рудника. 
     
-<img width="766" height="732" alt="image" src="https://github.com/user-attachments/assets/5a5f61d5-9072-473a-b6a4-ebc9f5345c34" />
+<img width="765" height="801" alt="image" src="https://github.com/user-attachments/assets/5f414eb8-f715-46e3-a934-2dc8c629bc32" />
+
+Меню отладки (клик по версии):
+<img width="522" height="886" alt="image" src="https://github.com/user-attachments/assets/17ee482a-baed-4d1e-ba27-9fdbb0b6bbbd" />
 
 
 
