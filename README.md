@@ -54,23 +54,14 @@
 - Управление ботом возможно через телеграмм, старт, стоп, пауза, настройка всех функций, запрос скриншотов игры/бота.. 
 - Присылает уведомления, например, что сел на рудник. Сообщает на какой (уровень) и когда следующее обновление рудника
     
-<img width="774" height="832" alt="image" src="https://github.com/user-attachments/assets/eb6fa28c-7aef-468f-94ef-c541f52f0b70" />
+<img width="769" height="842" alt="image" src="https://github.com/user-attachments/assets/ddae2cd2-77fe-480f-8ead-c4d05b633841" />
+
+
+<img width="818" height="832" alt="image" src="https://github.com/user-attachments/assets/176dbed9-0cf5-407b-88f1-6b1a88c813c0" />
 
 
 Меню отладки (клик по версии):
-<img width="522" height="831" alt="image" src="https://github.com/user-attachments/assets/a73375dd-77a8-42a3-93e1-b46b4880efad" />
-
-
-
-
-<img width="899" height="722" alt="image" src="https://github.com/user-attachments/assets/bbf51854-b9ae-49a8-a03b-dcdc6298e259" />
-
-Второй вариант оформления.
-
-
-
-<img width="502" height="452" alt="image" src="https://github.com/user-attachments/assets/3303156b-dd68-425b-9bbd-4227bd709326" />
-
+<img width="261" height="396" alt="image" src="https://github.com/user-attachments/assets/e57b95de-1c2d-4ff8-aeef-2184255b2b99" />
 
 
 ## Системные требования
