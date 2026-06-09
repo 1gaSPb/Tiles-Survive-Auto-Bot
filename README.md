@@ -2,8 +2,9 @@
 
 **Windows-бот для автоматизации рутины в Tiles Survive** — база, рейды, рудник, сбор с плит, управление с телефона через Telegram. Один файл `ibot2.exe`, без установки.
 
-[Releases](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot/releases) · [Telegram](https://t.me/ibot2_ts) · [Wiki](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot/wiki) · [Issues](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot/issues)
-
+[![Скачать ibot2](https://img.shields.io/badge/Скачать-ibot2.exe-2563eb?style=for-the-badge)](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot/releases/latest)
+[![Telegram — помощь](https://img.shields.io/badge/Telegram-помощь-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibot2_ts)
+[![Как настроить](https://img.shields.io/badge/Wiki-настройка-555?style=for-the-badge)](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot/wiki)
 ---
 
 ## Для кого
