@@ -1,4 +1,4 @@
-# ibot2 for Tiles Survive
+# ibot2 Tiles Survive
 
 **Windows-бот для автоматизации рутины в Tiles Survive** — база, рейды, рудник, сбор с плит, управление с телефона через Telegram. Один файл `ibot2.exe`, без установки.
 
