@@ -7,6 +7,7 @@
 
 [![Скачать ibot2](https://img.shields.io/badge/Скачать-ibot2.exe-2563eb?style=for-the-badge)](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot/releases/latest)
 [![Telegram — помощь](https://img.shields.io/badge/Telegram-помощь-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibot2_ts)
+[![Сайт — ibot2.ru](https://img.shields.io/badge/Сайт-ibot2.ru-4F9CF9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibot2.ru)
 [![Как настроить](https://img.shields.io/badge/Wiki-настройка-555?style=for-the-badge)](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot/wiki)
 ---
 
