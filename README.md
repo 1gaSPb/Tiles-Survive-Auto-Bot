@@ -163,10 +163,10 @@
 
 ## Полезные ссылки
 
+- Официальный сайт: https://ibot2.ru
 - Репозиторий и релизы: [1gaSPb/Tiles-Survive-Auto-Bot](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot)
 - Группа и поддержка: [Tiles Survive Bot: ibot2](https://t.me/ibot2_ts)
 - Автор: [@igaspb](https://t.me/igaspb)
-
 ---
 
 *Ключевые слова для поиска: Tiles Survive bot, бот для Tiles Survive, автоматизация базы, рейды, рудник, эмулятор Android на Windows, Telegram remote.*
