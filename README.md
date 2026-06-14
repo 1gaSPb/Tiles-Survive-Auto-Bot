@@ -96,7 +96,8 @@
 
 **Окно бота**
 
-<img width="769" height="842" alt="Окно бота ibot2" src="https://github.com/user-attachments/assets/ddae2cd2-77fe-480f-8ead-c4d05b633841" />
+<img width="809" height="848" alt="image" src="https://github.com/user-attachments/assets/f2e5e22b-3eba-4a8a-8eac-5a3111e2e3fb" />
+
 
 **Пульт управления из Telegram**
 
