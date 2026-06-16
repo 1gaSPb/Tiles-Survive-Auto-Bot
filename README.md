@@ -101,7 +101,8 @@
 
 **Пульт управления из Telegram**
 
-<img width="818" height="832" alt="Пульт управления из Telegram" src="https://github.com/user-attachments/assets/176dbed9-0cf5-407b-88f1-6b1a88c813c0" />
+<img width="2925" height="1197" alt="image" src="https://github.com/user-attachments/assets/d155c540-d15f-4de3-8ba7-b151c9d9332f" />
+
 
 **Меню отладки** *(клик по версии в окне бота)*
 
