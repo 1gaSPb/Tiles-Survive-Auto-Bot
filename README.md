@@ -1,4 +1,3 @@
-
 # ibot2 Tiles Survive
 
 <img width="1000" height="83" alt="image" src="https://github.com/user-attachments/assets/e9b9a1a5-940b-4e31-8979-06fdb912b855" />
@@ -189,7 +188,7 @@
 
 - You play Tiles Survive in an **Android emulator** or **Sandboxie** on Windows and want to stop wasting time on endless clicks.
 - You need **raids, mine refreshes, and tile resource gathering** to run on schedule, even when you are away from the PC.
-- You want to **start, stop, pause, check screenshots, and manage settings** прямо from your phone through Telegram.
+- You want to **start, stop, pause, check screenshots, and manage settings** directly from your phone through Telegram.
 
 Let the bot handle the grind while you focus on progress.
 
@@ -270,15 +269,15 @@ A **trial period** is available on first launch. After that, activation works by
 
 **Bot window**
 
-*(image stays as in the original README)*
+<img width="809" height="848" alt="image" src="https://github.com/user-attachments/assets/f2e5e22b-3eba-4a8a-8eac-5a3111e2e3fb" />
 
 **Telegram control panel**
 
-*(image stays as in the original README)*
+<img width="2925" height="1197" alt="image" src="https://github.com/user-attachments/assets/d155c540-d15f-4de3-8ba7-b151c9d9332f" />
 
 **Debug menu** *(click the version in the bot window)*
 
-*(image stays as in the original README)*
+<img width="261" height="396" alt="Меню отладки ibot2" src="https://github.com/user-attachments/assets/e57b95de-1c2d-4ff8-aeef-2184255b2b99" />
 
 ---
 
@@ -350,4 +349,3 @@ The bot **does not collect** logins, passwords, or payment data; it does not inj
 ---
 
 *Translated with AI.*
-
