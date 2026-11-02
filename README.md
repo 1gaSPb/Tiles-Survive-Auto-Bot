@@ -1,6 +1,3 @@
-# ibot2 Tiles Survive
-
-<img width="1000" height="83" alt="image" src="https://github.com/user-attachments/assets/e9b9a1a5-940b-4e31-8979-06fdb912b855" />
 # ibot2 — Tiles Survive Auto Bot
 
 [Русский](#русский) · [English](#english) · [Скачать](https://ibot2.ru/#download) · [Releases](https://github.com/1gaSPb/Tiles-Survive-Auto-Bot/releases/latest) · [Поддержка](https://t.me/ibot2_ts)
@@ -51,6 +48,18 @@ ibot2 выполняет повторяющиеся действия в окне
 6. При желании нажмите «Управление через Telegram» внизу окна и выполните привязку по QR, ссылке или коду.
 
 ### Управление
+
+Скриншоты тестовой сборки **2.5.0.7**. Выбранные на снимках параметры — пример, а не рекомендуемые значения.
+
+**Вкладка «Управление»**
+
+<img width="814" height="842" alt="photo_2026-11-02_21-31-08" src="https://github.com/user-attachments/assets/d26280a6-922a-4b14-96d0-aac39db907b3" />
+
+**Вкладка «Дополнительно»**
+
+<img width="814" height="842" alt="photo_2026-11-02_21-31-08 (2)" src="https://github.com/user-attachments/assets/525a70d2-4045-4be6-b248-3e1f0e4fa5c2" />
+
+
 
 - **«Управление»:** задачи базы, задержка, рудник, рейды, пять маршей, сбор с плит, «Доп. функции», старт/пауза/стоп и «Трата энергии».
 - **«Дополнительно»:** питомцы, награды, альянс, усиление сбора. Выполняются после «Старт».
@@ -141,6 +150,17 @@ You can change the checkbox and «Задержка нажатий» (click delay
 6. Optionally click «Управление через Telegram» at the bottom and link by QR, link or code.
 
 ### Controls
+
+Screenshots of test build **2.5.0.7**. The selected settings are examples, not recommended values.
+
+**«Управление» (Control) tab**
+
+<img width="814" height="842" alt="photo_2026-11-02_21-31-08" src="https://github.com/user-attachments/assets/abea3583-78e9-472a-8462-c177e89effc9" />
+
+**«Дополнительно» (Additional) tab**
+
+<img width="814" height="842" alt="photo_2026-11-02_21-31-08 (2)" src="https://github.com/user-attachments/assets/d1b19eb8-d11f-4aa6-85f5-3c455387018b" />
+
 
 - **«Управление» (Control):** base tasks, delay, mine, raids, five marches, gathering, extra options, start/pause/stop and energy rules.
 - **«Дополнительно» (Additional):** pets, rewards, alliance tasks and boosts; these run after Start.
