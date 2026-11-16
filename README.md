@@ -6,7 +6,7 @@
 
 > Windows 10/11 · один EXE без установки · пробный период при первом запуске · интерфейс программы на русском языке
 
-![Главное окно ibot2 — автоматизация Tiles Survive](https://github.com/user-attachments/assets/d26280a6-922a-4b14-96d0-aac39db907b3)
+![Главное окно ibot2 — автоматизация Tiles Survive](https://ibot2.ru/assets/screenshot-ui.jpg?v=20261108)
 
 ## Что автоматизирует ibot2
 
@@ -45,11 +45,11 @@
 
 **Вкладка «Управление»**
 
-![Управление сбором, рейдами и рудником в ibot2](https://github.com/user-attachments/assets/d26280a6-922a-4b14-96d0-aac39db907b3)
+![Управление сбором, рейдами и рудником в ibot2](https://ibot2.ru/assets/screenshot-ui.jpg?v=20261108)
 
 **Вкладка «Дополнительно»**
 
-![Дополнительная автоматизация Tiles Survive в ibot2](https://github.com/user-attachments/assets/525a70d2-4045-4be6-b248-3e1f0e4fa5c2)
+![Дополнительная автоматизация Tiles Survive в ibot2](https://ibot2.ru/assets/screenshot-additional.jpg?v=20261108)
 
 Снимки относятся к тестовой сборке с интерфейсом 2.5.0.7. Выбранные параметры показаны как пример, а не как рекомендация.
 
