@@ -6,7 +6,7 @@
 
 > Windows 10/11 · один EXE без установки · пробный период при первом запуске · интерфейс программы на русском языке
 
-![Главное окно ibot2 — автоматизация Tiles Survive](https://ibot2.ru/assets/screenshot-ui.jpg?v=20261108)
+![Главное окно ibot2 — автоматизация Tiles Survive](https://ibot2.ru/assets/screenshot-ui.png?v=20261116)
 
 ## Что автоматизирует ibot2
 
@@ -45,13 +45,13 @@
 
 **Вкладка «Управление»**
 
-![Управление сбором, рейдами и рудником в ibot2](https://ibot2.ru/assets/screenshot-ui.jpg?v=20261108)
+![Управление сбором, рейдами и рудником в ibot2](https://ibot2.ru/assets/screenshot-ui.png?v=20261116)
 
 **Вкладка «Дополнительно»**
 
-![Дополнительная автоматизация Tiles Survive в ibot2](https://ibot2.ru/assets/screenshot-additional.jpg?v=20261108)
+![Дополнительная автоматизация Tiles Survive в ibot2](https://ibot2.ru/assets/screenshot-additional.png?v=20261116)
 
-Снимки относятся к тестовой сборке с интерфейсом 2.5.0.7. Выбранные параметры показаны как пример, а не как рекомендация.
+Снимки относятся к тестовой сборке. Публичная PROD-версия по `/version` на 16 ноября 2026 года — **2.5.0.25**; она может отличаться от версии, видимой на снимках. Выбранные параметры показаны как пример, а не как рекомендация.
 
 ## Требования
 
@@ -101,4 +101,5 @@ Requirements: Windows 10/11, administrator access, internet for activation and u
 ---
 
 Tiles Survive is a trademark of its respective owner. ibot2 is an independent third-party project and is not affiliated with or endorsed by the game developer.
+
 
